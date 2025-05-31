@@ -1,10 +1,12 @@
-import React from 'react'
-import Todo from './Todo'
+ 
+import Background from './BACKGROUND/Background'
+import Calculator from './CALCULATOR/Calculator'
+import Demo from './Demo'
 const App= () => {
   return (
     <div>
-     <Todo/>
-    </div>
+      <Calculator/>
+      </div>
   )
 }
 
